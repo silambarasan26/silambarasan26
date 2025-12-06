@@ -59,30 +59,12 @@ I specialize in **microservices architecture**, **backend systems**, **API engin
 
 ---
 
-## 🔧 Architecture Snapshot (Microservices View)
-
-┌──────────────────────┐
-                                │     API Gateway      │
-                                └──────────┬───────────┘
-                                           │
-  ┌────────────────────────────┬───────────┴─────────────────────────────┐
-  │                            │                                         │
-┌───────────────────┐ ┌───────────────────┐ ┌───────────────────┐
-│  Auth Service     │ │  Order Service    │ │  Payment Service  │
-└───────┬───────────┘ └─────────┬─────────┘ └──────────┬────────┘
-        │           Event Bus (Solace / AMQ / Kafka Layer) 
-        ▼           ←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
-┌──────────────┐ ┌────────────────┐ ┌─────────────────┐
-│ DB (Users)   │ │ DB (Orders)    │ │ DB (Payments)   │
-└──────────────┘ └────────────────┘ └─────────────────┘
-                            ---
-
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silambarasan26&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silambarasan26&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silambarasan26&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silambarasan26&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
