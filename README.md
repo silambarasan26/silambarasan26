@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Silambarasan U</h1>
-<h3 align="center">Technical Solution Architect | Java | Spring Boot | Microservices | Cloud</h3>
+<h3 align="center">Technical Solution Expert | Java | Spring Boot | Microservices | Cloud</h3>
 
 ---
 
@@ -61,10 +61,10 @@ I specialize in **microservices architecture**, **backend systems**, **API engin
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silambarasan26&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silambarasan26&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=silambarasan26&show_icons=true&theme=radical&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silambarasan26&layout=compact&theme=radical&hide_title=true" width="48%" />
+</p>
 
 ---
 
