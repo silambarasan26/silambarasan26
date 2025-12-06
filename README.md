@@ -59,15 +59,6 @@ I specialize in **microservices architecture**, **backend systems**, **API engin
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silambarasan26&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silambarasan26&layout=compact&theme=radical&hide_title=true" width="48%" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
