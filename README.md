@@ -168,9 +168,9 @@ Automation services transforming **manual downstream operations** into:
 
 ---
 
-## 📌 Recommended Pinned Repositories Strategy
+## 📌 Recommended Repositories Strategy
 
-Below are **production-ready folder structures + README templates** for each pinned repository. You can copy-paste and start committing immediately.
+Below are **production-ready folder structures + README templates** for each repository.
 
 ---
 
@@ -312,17 +312,6 @@ Automation services that convert **manual enterprise processes** into intelligen
 - Improved processing accuracy
 
 ```
-
----
-
-## 🌍 Recruiter Keyword Optimization (UAE & Enterprise)
-
-This profile is optimized for:
-- Senior Java Architect
-- Technical Solution Architect
-- Microservices Architect
-- Cloud-native Backend Engineer
-- Enterprise Integration Specialist
 
 ---
 
