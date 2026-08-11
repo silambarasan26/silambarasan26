@@ -11,7 +11,7 @@
 
 ## 🚀 Professional Summary
 
- **Technical Solution Expert / Architect** with **12+ years of experience** designing, modernizing, and scaling **enterprise-grade platforms** across **Banking, FMCG, Retail, and Core Enterprise Systems**.
+ **Technical Solution Expert / Architect** with **13+ years of experience** designing, modernizing, and scaling **enterprise-grade platforms** across **Banking, FMCG, Retail, and Core Enterprise Systems**.
 
 I specialize in:
 - 🧩 **Microservices & Distributed Systems**
